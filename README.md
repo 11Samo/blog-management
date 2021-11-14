@@ -6,7 +6,7 @@
 - Bootstrap
 
 ---
-**Link:** [Click on Blog Management](https://11samo.github.io/blog-management/login.html)
+**Link:** [Click on Blog Management](https://11samo.github.io/blog-management/)
 
 ---
 ![Screenshot 1 of site](screenshots/screen1.jpg)
